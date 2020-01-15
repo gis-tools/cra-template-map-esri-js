@@ -1,13 +1,217 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4521e50-fd8a-4e3a-9ccf-ce5351ebcfa9" name="Default Changelist" comment="Setting up template">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cra-template-map-esri-js-v4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cra-template-map-esri-js-v4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="ekXzTfFK" />
   </component>
   <component name="ProjectId" id="1WPYQ1bWCZa9eJaaHKML2VDhE8G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v12.6.0/bin/node" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/template" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4521e50-fd8a-4e3a-9ccf-ce5351ebcfa9" name="Default Changelist" comment="" />
+      <created>1579052676718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579052676718</updated>
+      <workItem from="1579052679757" duration="5877000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updating .gitignore">
+      <created>1579058309410</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579058309410</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Setting up template">
+      <created>1579058356339</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579058356339</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updating .gitignore">
+      <created>1579058783874</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579058783874</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Setting up template">
+      <created>1579058819665</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579058819665</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding template.json">
+      <created>1579058848298</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579058848298</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updating `package.json`">
+      <created>1579061263777</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579061263777</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updating .gitignore" />
+    <MESSAGE value="Setting up template" />
+    <MESSAGE value="Adding template.json" />
+    <MESSAGE value="Updating `package.json`" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating `package.json`" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" width="1920" height="1200" key="CommitChangelistDialog2" timestamp="1579061263573">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="0" y="0" width="1920" height="1200" key="CommitChangelistDialog2/0.0.1920.1200@0.0.1920.1200" timestamp="1579061263573" />
+    <state x="100" y="100" width="1720" height="1000" key="DiffContextDialog" timestamp="1579058762443">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="100" y="100" width="1720" height="1000" key="DiffContextDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1579058762443" />
+    <state width="720" height="289" key="GridCell.Tab.0.bottom" timestamp="1579058769906">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="720" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1579058769906" />
+    <state width="720" height="289" key="GridCell.Tab.0.center" timestamp="1579058769904">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="720" height="289" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1579058769904" />
+    <state width="720" height="289" key="GridCell.Tab.0.left" timestamp="1579058769903">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="720" height="289" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1579058769903" />
+    <state width="720" height="289" key="GridCell.Tab.0.right" timestamp="1579058769905">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="720" height="289" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1579058769905" />
+    <state x="469" y="239" key="SettingsEditor" timestamp="1579054894743">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="469" y="239" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1579054894743" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1579058394766">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1920.1200@0.0.1920.1200" timestamp="1579058394766" />
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2" timestamp="1579061436166">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="560" y="341" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1579061436166" />
+    <state x="616" y="434" key="com.intellij.ide.util.TipDialog" timestamp="1579052745399">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="616" y="434" key="com.intellij.ide.util.TipDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1579052745399" />
   </component>
 </project>
