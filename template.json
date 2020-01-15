@@ -1,8 +1,6 @@
 {
   "dependencies": {
-    "esri-loader": "^2.13.0"
-  },
-  "devDependencies": {
+    "esri-loader": "^2.13.0",
     "prettier": "^1.19.1",
     "sass": "^1.24.4"
   },
