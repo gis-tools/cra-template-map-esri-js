@@ -3,9 +3,9 @@
   "description": "This is Create React App (CRA) template for ESRI Map JS API v4 ",
   "author": "Bojan Zivkovic",
   "keywords": "Create React App, CRA, CRA template, Create React App template, ESRI, ESRI JS API",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
-  "homepage": "./",
+  "homepage": "https://github.com/gis-tools/cra-template-map-esri-js",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
