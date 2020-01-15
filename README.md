@@ -1,4 +1,4 @@
-# Quickstart ESRI JS API Map Create React App template
+# Quickstart ESRI JS API Map with Create React App template
 
 ### Usage
 
