@@ -1,3 +1,16 @@
+# Quickstart ESRI JS API Map Create React App template
+
+### Usage
+
+```
+npx create-react-app %PROJECT_NAME% --template map-esri-js
+
+- or -
+
+yarn create react-app %PROJECT_NAME% --template map-esri-js
+```
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
